@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/ES_PCS_26/esercitazione_2/algoritmo_Bubblesort/build_bubblesort/CMakeFiles/Bubblesort.dir
+/home/pcsdocker/Data/ES_PCS_26/esercitazione_2/algoritmo_Bubblesort/build_bubblesort/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/ES_PCS_26/esercitazione_2/algoritmo_Bubblesort/build_bubblesort/CMakeFiles/rebuild_cache.dir
